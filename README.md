@@ -1,3 +1,2 @@
 # Genetic_Algorithm
-Authors: Michael Asabere
-       : Yaw Owusu Agyeman
+Authors: Michael Asabere, Yaw Owusu Agyemang
